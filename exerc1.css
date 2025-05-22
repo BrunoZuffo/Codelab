@@ -1,0 +1,48 @@
+.title{
+    color: #00ffbf;
+    text-align: center;
+}
+
+.texto1{
+    color:#000000;
+    border: 3px solid #00ffbf;
+    background-color: chocolate;
+    grid-column: 1/2;
+    grid-row: 1/2;
+}
+
+.texto2{
+    color:#000000;
+    border: 3px solid #00ffbf;
+    background-color: darkgreen;
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
+
+.autor{
+    color:#00ffbf;
+    border: 3px solid #000;
+    border-radius: 18px;
+    padding: 8px;
+    justify-content: center;   
+    align-items: center;
+    width: fit-content; 
+    align-content: center;
+    display: grid;
+    
+}
+
+.box{
+    display: grid;
+    flex-direction: row;
+    align-items: center;
+    width: 70%;
+    background-color: #00ffbf;
+    justify-content: space-around;
+}
+
+.tudo{
+    
+    background-color: #000;
+
+}

@@ -1,0 +1,16 @@
+.title{
+    background-color: rgb(250, 217, 186);
+    text-align: center;
+}
+.imagem{
+    border: 5px dashed black;
+    width: 200px;
+    height: auto;
+    padding:1%;
+}
+.texto{
+    color:black;
+    background-color: white;
+    text-align: center;
+    border: 2px solid rgb(250, 217, 186);
+}
